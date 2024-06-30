@@ -1,6 +1,10 @@
 Claro, aquí tienes un archivo `README.md` mejor formateado:
 
 
+<img src = "https://i.pinimg.com/originals/ff/f3/e3/fff3e3d05b0961ceb9d23c3dfd2a7c21.gif" width = auto> </h1>
+<p align='center'>
+</p>
+
 # Doctor Management Web Application
 
 This is a web application for managing doctors. Users can sign up, log in, view a list of doctors, add new doctors, and edit doctor details.
@@ -123,9 +127,16 @@ The backend API is documented using Swagger. To view the API documentation, star
 - **Backend**: Node.js, Express, MongoDB
 - **Documentation**: Swagger
 
-## Contact
+## Tecnologies
+<div size='20px'>
+	<h3>The Technologies that you need are: </h3> 
+	<p align="center">
+	  <a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=git,github,nodejs,mongo,docker,typescript,react" />
+	  </a>
+	</p>
+</div>
 
 For any questions or feedback
 ```
 
-Este archivo `README.md` está formateado con secciones claras y fáciles de seguir, lo que facilita a los usuarios entender cómo instalar, usar y explorar tu proyecto. Ajusta cualquier sección según las necesidades específicas de tu proyecto.
