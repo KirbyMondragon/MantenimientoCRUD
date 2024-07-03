@@ -24,7 +24,7 @@ const DoctorList = () => {
 
   const fetchDoctores = async () => {
     try {
-      const response = await fetch('http://localhost:3034/visitantes');
+      const response = await fetch('http://137.184.5.176:3034/visitantes');
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
